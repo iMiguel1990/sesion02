@@ -1,2 +1,2 @@
 # sesion02
-Hola me llamo Nada
+Hola me llamo Nada y me gusta dormir.
