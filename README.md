@@ -1,2 +1,8 @@
 # sesion02
-Hola me llamo Nada y me gusta dormir.
+# lab-4C24-2023-MiguelFR
+
+Descripción breve del proyecto
+
+## Getting Started
+
+Instrucciones para empezar el proyecto
